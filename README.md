@@ -1,6 +1,6 @@
 # code playgrounds for strapi v5 1121-1224
 
-# quickstart replit
+# quickstart replit 1121
 
 - environments
   - node v20 (v22 not working)
